@@ -247,3 +247,9 @@ body {
     font-weight: normal;
     font-style: normal;
 }
+
+#footer {
+    background-color: #91BD82;
+    display: block;
+    text-align: center;
+}
